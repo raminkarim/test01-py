@@ -16,6 +16,4 @@ for i in range(3):
     print(tbl01[0][i])
 
 
-
-
 #print(tbl01[0][0],[1][0])l
